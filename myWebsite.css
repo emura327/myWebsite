@@ -1,9 +1,19 @@
+body {
+    margin: 0;
+}
 h1 {
     text-align: center;
     color: aqua;
     background-color: gray;
+    margin: 0;
 }
 
-li {
+h2 {
+    text-align: center;
+}
+
+
+li,ul {
+    padding: 0;
     list-style: none;
 }
