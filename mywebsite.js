@@ -9,3 +9,7 @@ const func2 = () => {
         alert('OKを押してくれないのか...')
     }
 }
+
+const func3 = () => {
+    
+}
