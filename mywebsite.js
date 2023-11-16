@@ -11,5 +11,6 @@ const func2 = () => {
 }
 
 const func3 = () => {
-    
+    const element = document.getElementById('js')
+    element.innerHTML = 'テキストが増えました！！'
 }
